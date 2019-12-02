@@ -1,0 +1,7 @@
+# .gitignore
+
+# vscode directory
+vscode/
+
+# class files after java compiling
+*.class
